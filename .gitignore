@@ -1,0 +1,10 @@
+# dependencies
+node_modules/
+src/server/config
+.env
+
+# production bundles
+dist/
+public/js/app.js
+
+.env
